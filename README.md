@@ -3,7 +3,7 @@
 
 </br>
 
-- 🔨 I’m currently working on GlobalMeaning (Software 🏭)
+- 🔨 I’m currently working in GlobalMeaning (Software 🏭)
 
 - 📖 I’m currently improving my English 😉
 
