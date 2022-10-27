@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋, I'm Santiago Tuero</h1>
-<h3 align="center">Fullstack React developer from Argentina 💻</h3>
+<h3 align="center">Frontend React developer from Argentina 💻</h3>
 
 </br>
 
